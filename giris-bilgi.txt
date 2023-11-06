@@ -1,0 +1,4 @@
+/Yonetim
+
+kullanıcı adı= ali
+şifre= 123
